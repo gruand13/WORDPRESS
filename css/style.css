@@ -107,7 +107,7 @@ h2.title {
     margin-top: 15px;
 }
 .waiting {
-    height: 604px;
+    min-height: 604px;
     background-color: #efefef;
     padding: 85px 0 75px 0;
 }
